@@ -1,0 +1,5 @@
+The NN is 0.734074
+The FT is 0.742955
+The ST is 0.794579
+The DCG is 0.823943
+The MAP is 0.765041
