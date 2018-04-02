@@ -10,7 +10,8 @@
 
 ## Plot result (MATLAB)
 run `plot13` to plot precision-recall curve for shrec13.
-![Precision recall curve for shrec13](./PR_CURVE_13.jpg =100x80)
+<img src="PR_CURVE_13.jpg" alt="Precision recall curve for shrec13" style="width:200px;"/>
 
 run `plot14` to plot precision-recall curve for shrec13.
-![Precision recall curve for shrec13](./PR_CURVE_13.jpg =100x80)
+<img src="PR_CURVE_14.jpg" alt="Precision recall curve for shrec14" style="width:200px;"/>
+
