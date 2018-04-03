@@ -13,7 +13,7 @@
 Evaluation measurments are noted in [shrec13\_map.txt](shrec13_map.txt):
 
 | NN | FT | ST | DCG | MAP|
-|--- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 |0.734074|0.742955|0.794579|0.823943|0.765041|
 
 run `plot13` to plot precision-recall curve for shrec13.
