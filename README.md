@@ -25,7 +25,7 @@ Evaluation measurments are noted in [shrec14\_map.txt](shrec14_map.txt):
 
 | NN | FT | ST | DCG | MAP|
 | --- | --- | --- | --- | --- |
-|0.734074|0.742955|0.794579|0.823943|0.765041|
+|0.452242|0.404277|0.484971|0.608495|0.424003|
 
 run `plot14` to plot precision-recall curve for shrec14.
 
