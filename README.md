@@ -33,5 +33,5 @@ run `plot14` to plot precision-recall curve for shrec14.
 ## Parameter settings
 
 | batch size | margin| learning rate | momentum | activation function | output feature size| 
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 30 | 20 | 0.001 | 0.9|relu | 256|
