@@ -31,6 +31,7 @@ run `plot14` to plot precision-recall curve for shrec14.
 
 <img src="PR_CURVE_14.jpg" alt="Precision recall curve for shrec14" width="500">
 ## Parameter settings
+
 | batch size | margin| learning rate | momentum |
 | --- | --- | --- | --- | --- |
 | 30 | 20 | 0.001 | 20 | 0.9|
